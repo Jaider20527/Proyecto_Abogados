@@ -1,0 +1,50 @@
+
+.containerCart {
+  display: flex;
+  justify-content: center;
+}
+
+nav {
+  text-align: end;
+}
+
+button {
+  font-size: 1.5rem;
+  padding: 0.5rem;
+  cursor: pointer;
+  border: none;
+  border-radius: 2px;
+}
+
+img {
+  width: 12rem;
+  height: 12rem;
+}
+
+.carta {
+  width: rem;
+  height: 16rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: cadetblue;
+  margin: 2rem;
+  border-radius: 5px;
+}
+
+h3 {
+  font-size: 1.5rem;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+p {
+  text-align: center;
+}
+
+.segus{
+    display: flex;
+    justify-content: center;
+}
+
+
+
